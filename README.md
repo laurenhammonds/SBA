@@ -1,4 +1,5 @@
 Online Store
+
   This is the first 3 pages of my online store that I will create for the Final Project. It contains the Homepage, Login Page, Products Page, andan email subscription form.
   
   These 3 web pages provide the main structure for my online store. Through these pages, the user can view the sites Homepage, create an account with the store, and sign up for email notifications to receive 10% off their first order. 
